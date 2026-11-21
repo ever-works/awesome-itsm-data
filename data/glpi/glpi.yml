@@ -1,0 +1,13 @@
+name: "GLPI"
+description: "An open-source IT asset and service management system with help desk, inventory, and CMDB capabilities. Self-hosted and free to use under the GPL license. Includes API access and plugin extensibility."
+source_url: "https://glpi-project.org/"
+category: "Open-Source & Self-Hosted ITSM"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "asset-management"
+  - "help-desk"
+icon_url: "https://icons.duckduckgo.com/ip3/glpi-project.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://glpi-project.org/>\n- Repository: <https://github.com/glpi-project/glpi>\n\nLicense: GPL v3.\n"
+updated_at: "2026-11-21 01:30"

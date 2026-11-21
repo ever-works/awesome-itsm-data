@@ -1,0 +1,13 @@
+name: "Snipe-IT"
+description: "An open-source IT asset management system for tracking hardware, software, licenses, and accessories. Self-hosted under the MPL 2.0 license with a REST API. Free to use with optional hosted support."
+source_url: "https://snipeitapp.com/"
+category: "Asset Management & CMDB"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "asset-management"
+  - "itam"
+icon_url: "https://icons.duckduckgo.com/ip3/snipeitapp.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://snipeitapp.com/>\n- Repository: <https://github.com/snipe/snipe-it>\n\nLicense: MPL 2.0.\n"
+updated_at: "2026-11-21 01:30"

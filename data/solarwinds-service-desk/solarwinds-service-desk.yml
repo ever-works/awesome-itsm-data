@@ -1,0 +1,13 @@
+name: "SolarWinds Service Desk"
+description: "A cloud-based help desk and ITSM tool for ticketing, asset management, and change management. Designed for midsize IT teams with a subscription pricing model. Provides API integrations and AI-driven suggestions."
+source_url: "https://www.solarwinds.com/service-desk"
+category: "IT Help Desk"
+tags:
+  - "paid"
+  - "api"
+  - "ai-powered"
+  - "it-help-desk"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/www.solarwinds.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.solarwinds.com/service-desk>\n"
+updated_at: "2026-11-21 01:30"

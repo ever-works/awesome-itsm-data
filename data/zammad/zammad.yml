@@ -1,0 +1,13 @@
+name: "Zammad"
+description: "A web-based open-source help desk and customer support system with ticketing, knowledge base, and chat features. Available as a self-hosted community edition and a paid cloud service. Includes API access and multiple authentication options."
+source_url: "https://zammad.com/"
+category: "IT Help Desk"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "paid"
+  - "api"
+  - "it-help-desk"
+icon_url: "https://icons.duckduckgo.com/ip3/zammad.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://zammad.com/>\n- Repository: <https://github.com/zammad/zammad>\n\nLicense: AGPL v3.\n"
+updated_at: "2026-11-21 01:30"

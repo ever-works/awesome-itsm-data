@@ -1,0 +1,13 @@
+name: "Jitbit Help Desk"
+description: "A help desk ticketing system for email-based support with live chat and a knowledge base. Available as cloud software or self-hosted on-premise under a paid license. Includes API access and automation rules."
+source_url: "https://www.jitbit.com/helpdesk"
+category: "IT Help Desk"
+tags:
+  - "paid"
+  - "self-hosted"
+  - "api"
+  - "it-help-desk"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/www.jitbit.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.jitbit.com/helpdesk>\n"
+updated_at: "2026-11-21 01:30"

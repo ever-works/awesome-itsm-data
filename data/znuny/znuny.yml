@@ -1,0 +1,13 @@
+name: "Znuny"
+description: "An open-source ITSM and service management platform forked from OTRS, supporting ticketing, incident, and change management. Self-hosted under the AGPL license with a REST API. Community-driven with optional commercial support."
+source_url: "https://www.znuny.org/"
+category: "Open-Source & Self-Hosted ITSM"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "itsm"
+  - "ticketing"
+icon_url: "https://icons.duckduckgo.com/ip3/www.znuny.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.znuny.org/>\n- Repository: <https://github.com/znuny/znuny>\n\nLicense: AGPL v3.\n"
+updated_at: "2026-11-21 01:30"

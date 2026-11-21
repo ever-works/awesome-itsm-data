@@ -1,0 +1,13 @@
+name: "osTicket"
+description: "An open-source support ticket system for managing customer and internal service requests. Self-hosted under the GPL license with email piping and web forms. Includes API access and basic SLA management."
+source_url: "https://osticket.com/"
+category: "Open-Source & Self-Hosted ITSM"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "it-help-desk"
+  - "ticketing"
+icon_url: "https://icons.duckduckgo.com/ip3/osticket.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://osticket.com/>\n- Repository: <https://github.com/osTicket/osTicket>\n\nLicense: GPL v2.\n"
+updated_at: "2026-11-21 01:30"

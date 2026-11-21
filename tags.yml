@@ -1,0 +1,36 @@
+- id: paid
+  name: "Paid"
+- id: enterprise
+  name: "Enterprise"
+- id: api
+  name: "API"
+- id: ai-powered
+  name: "AI-Powered"
+- id: itsm
+  name: "ITSM"
+- id: cmdb
+  name: "CMDB"
+- id: freemium
+  name: "Freemium"
+- id: free-plan
+  name: "Free Plan"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: it-help-desk
+  name: "IT Help Desk"
+- id: cloud
+  name: "Cloud"
+- id: service-catalog
+  name: "Service Catalog"
+- id: open-source
+  name: "Open Source"
+- id: asset-management
+  name: "Asset Management"
+- id: help-desk
+  name: "Help Desk"
+- id: ticketing
+  name: "Ticketing"
+- id: itam
+  name: "ITAM"
+- id: free
+  name: "Free"

@@ -1,0 +1,13 @@
+name: "Request Tracker (RT)"
+description: "An open-source ticketing system for issue tracking, customer support, and IT service management. Self-hosted under the GPL v2 license with a REST API and email integration. Maintained by Best Practical Solutions."
+source_url: "https://bestpractical.com/rt"
+category: "Open-Source & Self-Hosted ITSM"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "ticketing"
+  - "it-help-desk"
+icon_url: "https://icons.duckduckgo.com/ip3/bestpractical.com.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://bestpractical.com/rt>\n- Repository: <https://github.com/bestpractical/rt>\n\nLicense: GPL v2.\n"
+updated_at: "2026-11-21 01:30"

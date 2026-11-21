@@ -1,0 +1,12 @@
+- id: itsm-suites
+  name: "ITSM Suites"
+- id: it-help-desk
+  name: "IT Help Desk"
+- id: open-source-and-self-hosted-itsm
+  name: "Open-Source & Self-Hosted ITSM"
+- id: asset-management-and-cmdb
+  name: "Asset Management & CMDB"
+- id: service-catalogs-and-portals
+  name: "Service Catalogs & Portals"
+- id: aiops-add-ons
+  name: "AIOps Add-ons"

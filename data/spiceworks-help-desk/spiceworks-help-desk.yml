@@ -1,0 +1,13 @@
+name: "Spiceworks Help Desk"
+description: "A free, ad-supported cloud help desk for ticketing, inventory, and basic IT service management. Targets small IT teams with no subscription cost. Includes community plugins and email integration."
+source_url: "https://www.spiceworks.com/help-desk"
+category: "IT Help Desk"
+tags:
+  - "free"
+  - "api"
+  - "it-help-desk"
+  - "cloud"
+  - "ticketing"
+icon_url: "https://icons.duckduckgo.com/ip3/www.spiceworks.com.ico"
+markdown: "## Pricing\n\nFree.\n\n## Links\n\n- Website: <https://www.spiceworks.com/help-desk>\n"
+updated_at: "2026-11-21 01:30"

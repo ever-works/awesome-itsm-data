@@ -1,0 +1,13 @@
+name: "Vision Helpdesk"
+description: "A help desk and ITSM solution for incident, problem, change, and asset management with multi-channel support. Available as cloud or self-hosted software under a paid license. Includes API access and SLA management."
+source_url: "https://www.visionhelpdesk.com/"
+category: "IT Help Desk"
+tags:
+  - "paid"
+  - "self-hosted"
+  - "api"
+  - "it-help-desk"
+  - "cloud"
+icon_url: "https://icons.duckduckgo.com/ip3/www.visionhelpdesk.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://www.visionhelpdesk.com/>\n"
+updated_at: "2026-11-21 01:30"
