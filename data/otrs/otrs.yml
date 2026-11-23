@@ -1,0 +1,35 @@
+name: OTRS
+description: OTRS is a proprietary IT service management platform developed by
+  OTRS. Launched in 2001, it is implemented in Perl and supports MySQL,
+  PostgreSQL, Oracle, and Microsoft SQL Server back ends.
+source_url: https://otrs.com/
+category: ITSM Suites
+tags:
+  - Proprietary
+  - Perl
+  - ITSM
+featured: false
+markdown: >-
+  ## Overview
+
+
+  OTRS is a proprietary IT service management platform developed by OTRS. It was
+  launched in 2001.
+
+
+  ## Technical Details
+
+
+  - Implementation language: Perl
+
+  - Back end: MySQL, PostgreSQL, Oracle, Microsoft SQL Server
+
+  - License: Proprietary
+
+
+  ## Deployment
+
+
+  Available as an enterprise ITSM suite.
+brand: OTRS
+updated_at: 2026-11-23 03:52

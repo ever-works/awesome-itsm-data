@@ -1,0 +1,35 @@
+name: Trac
+description: Trac is an open-source issue tracking and project management system
+  developed by Edgewall Software. Launched in 2004, it is implemented in Python
+  and supports MySQL and PostgreSQL back ends.
+source_url: https://trac.edgewall.org/
+category: Open-Source & Self-Hosted ITSM
+tags:
+  - Open Source
+  - Python
+  - BSD License
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Trac is an open-source issue tracking and project management system developed
+  by Edgewall Software. It was launched in 2004.
+
+
+  ## Technical Details
+
+
+  - Implementation language: Python
+
+  - Back end: MySQL, PostgreSQL
+
+  - License: BSD-3-Clause
+
+
+  ## Deployment
+
+
+  Self-hosted open-source solution.
+brand: Edgewall Software
+updated_at: 2026-11-23 03:52

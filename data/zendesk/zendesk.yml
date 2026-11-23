@@ -1,0 +1,35 @@
+name: Zendesk
+description: Zendesk is a proprietary customer service and help desk platform
+  developed by Zendesk, Inc. Launched in 2007, it is implemented in Ruby with
+  MySQL and Amazon AWS back ends.
+source_url: https://www.zendesk.com/
+category: ITSM Suites
+tags:
+  - Proprietary
+  - Cloud
+  - Ruby
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Zendesk is a proprietary customer service and help desk platform developed by
+  Zendesk, Inc. It was launched in 2007.
+
+
+  ## Technical Details
+
+
+  - Implementation language: Ruby
+
+  - Back end: MySQL, Amazon AWS, Amazon Redshift
+
+  - License: Proprietary
+
+
+  ## Deployment
+
+
+  Cloud-based SaaS platform.
+brand: Zendesk, Inc.
+updated_at: 2026-11-23 03:52

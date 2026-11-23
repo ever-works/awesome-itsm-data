@@ -1,0 +1,36 @@
+name: Supportworks
+description: Supportworks is a proprietary IT service management solution
+  developed by Hornbill Systems. Launched in 1994, it is implemented in Visual
+  C++ and PHP with Microsoft SQL Server, MySQL, Oracle, and Sybase back ends.
+source_url: https://www.hornbill.com/supportworks/
+category: ITSM Suites
+tags:
+  - Proprietary
+  - Enterprise
+  - Visual C++
+  - PHP
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Supportworks is a proprietary IT service management solution developed by
+  Hornbill Systems. It was launched in 1994.
+
+
+  ## Technical Details
+
+
+  - Implementation language: Visual C++ and PHP
+
+  - Back end: Microsoft SQL Server, MySQL, Oracle, Sybase
+
+  - License: Proprietary
+
+
+  ## Deployment
+
+
+  Available as an enterprise ITSM suite.
+brand: Hornbill Systems
+updated_at: 2026-11-23 03:52

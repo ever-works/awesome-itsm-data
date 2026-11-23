@@ -1,0 +1,35 @@
+name: Roundup
+description: Roundup is an open-source issue tracking system developed by the
+  Roundup-Team. Launched in 2001, it is implemented in Python and supports
+  MySQL, PostgreSQL, SQLite, and Berkeley DB back ends.
+source_url: https://roundup.sourceforge.io/
+category: Open-Source & Self-Hosted ITSM
+tags:
+  - Open Source
+  - Python
+  - MIT License
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Roundup is an open-source issue tracking system developed by the Roundup-Team.
+  It was launched on August 18, 2001.
+
+
+  ## Technical Details
+
+
+  - Implementation language: Python
+
+  - Back end: MySQL, PostgreSQL, SQLite, Berkeley DB
+
+  - License: MIT, Zope
+
+
+  ## Deployment
+
+
+  Self-hosted open-source solution.
+brand: Roundup-Team
+updated_at: 2026-11-23 03:52

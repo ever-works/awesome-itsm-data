@@ -1,0 +1,35 @@
+name: HEAT
+description: HEAT is a proprietary IT service management solution developed by
+  FrontRange Solutions. Launched in 1990, it is implemented in .NET and supports
+  Microsoft SQL Server and Oracle back ends.
+source_url: https://www.heatsoftware.com/
+category: ITSM Suites
+tags:
+  - Proprietary
+  - Enterprise
+  - .NET
+featured: false
+markdown: >-
+  ## Overview
+
+
+  HEAT is a proprietary IT service management solution developed by FrontRange
+  Solutions. It was launched in 1990.
+
+
+  ## Technical Details
+
+
+  - Implementation language: .NET
+
+  - Back end: Microsoft SQL Server, Oracle
+
+  - License: Proprietary
+
+
+  ## Deployment
+
+
+  Available as an enterprise ITSM suite.
+brand: FrontRange Solutions
+updated_at: 2026-11-23 03:52

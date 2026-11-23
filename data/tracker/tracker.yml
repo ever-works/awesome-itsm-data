@@ -1,0 +1,35 @@
+name: Tracker
+description: Tracker is a proprietary groupware-based issue tracking system
+  developed by Automation Centre. Launched in 2001, it requires IBM Lotus Notes
+  and runs on IBM Lotus Domino.
+source_url: https://www.automationcentre.com/
+category: IT Help Desk
+tags:
+  - Proprietary
+  - Lotus Notes
+  - Groupware
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Tracker is a proprietary groupware-based issue tracking system developed by
+  Automation Centre. It was launched in 2001.
+
+
+  ## Technical Details
+
+
+  - Implementation language: Groupware, requires Lotus Notes
+
+  - Back end: IBM Lotus Domino
+
+  - License: Proprietary
+
+
+  ## Deployment
+
+
+  Self-hosted on IBM Lotus Domino.
+brand: Automation Centre
+updated_at: 2026-11-23 03:52

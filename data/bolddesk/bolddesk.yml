@@ -1,0 +1,35 @@
+name: Bolddesk
+description: Bolddesk is a proprietary help desk ticketing system developed by
+  Syncfusion. Launched in 2022, it is implemented in the Microsoft .NET
+  Framework with Google Cloud Platform back end.
+source_url: https://www.bolddesk.com/
+category: IT Help Desk
+tags:
+  - Proprietary
+  - .NET
+  - Cloud
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Bolddesk is a proprietary help desk ticketing system developed by Syncfusion.
+  It was launched in 2022.
+
+
+  ## Technical Details
+
+
+  - Implementation language: Microsoft .NET Framework
+
+  - Back end: Google Cloud Platform (GCP)
+
+  - License: Proprietary
+
+
+  ## Deployment
+
+
+  Cloud-based help desk solution.
+brand: Syncfusion
+updated_at: 2026-11-23 03:52

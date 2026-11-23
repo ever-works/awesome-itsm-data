@@ -1,0 +1,35 @@
+name: HelpDesk
+description: HelpDesk is a proprietary help desk ticketing system developed by
+  Text. Launched in 2019, it is implemented in JavaScript and Node.js with MySQL
+  and PostgreSQL back ends.
+source_url: https://www.helpdesk.com/
+category: IT Help Desk
+tags:
+  - Proprietary
+  - JavaScript
+  - Node.js
+featured: false
+markdown: >-
+  ## Overview
+
+
+  HelpDesk is a proprietary help desk ticketing system developed by Text. It was
+  launched in 2019.
+
+
+  ## Technical Details
+
+
+  - Implementation language: JavaScript, Node.js
+
+  - Back end: MySQL, PostgreSQL
+
+  - License: Proprietary
+
+
+  ## Deployment
+
+
+  Cloud-based help desk solution.
+brand: Text
+updated_at: 2026-11-23 03:52
