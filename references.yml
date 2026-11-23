@@ -1,10 +1,34 @@
-- url: "https://www.softwaresuggest.com/it-service-management-software"
-  title: "SoftwareSuggest — IT Service Management software"
-- url: "https://en.wikipedia.org/wiki/Comparison_of_help_desk_issue_tracking_software"
-  title: "Wikipedia — Comparison of help desk issue tracking software"
-- url: "https://en.wikipedia.org/wiki/Category:IT_service_management"
-  title: "Wikipedia — Category:IT service management"
-- url: "https://awesome-selfhosted.net/tags/ticketing.html"
-  title: "awesome-selfhosted — Ticketing"
-- url: "https://github.com/topics/itsm"
-  title: "GitHub topic — `itsm` (683 repos)"
+- url: https://awesome-selfhosted.net/tags/ticketing.html
+  title: awesome-selfhosted — Ticketing
+  normalized_url: https://awesome-selfhosted.net/tags/ticketing.html
+- url: https://en.wikipedia.org/wiki/Category:IT_service_management
+  normalized_url: https://en.wikipedia.org/wiki/Category:IT_service_management
+  first_seen_at: 2026-11-23T03:51:55.965Z
+  last_attempted_at: 2026-11-23T03:51:55.965Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://en.wikipedia.org/wiki/Category:IT_service_management"
+- url: https://en.wikipedia.org/wiki/Comparison_of_help_desk_issue_tracking_software
+  normalized_url: https://en.wikipedia.org/wiki/Comparison_of_help_desk_issue_tracking_software
+  first_seen_at: 2026-11-23T03:50:26.738Z
+  last_attempted_at: 2026-11-23T03:50:26.738Z
+  last_success_at: 2026-11-23T03:50:26.738Z
+  status: success
+  items_created: 11
+  pipeline: agent-pipeline
+- url: https://github.com/topics/itsm
+  title: GitHub topic — `itsm` (683 repos)
+  normalized_url: https://github.com/topics/itsm
+- url: https://www.softwaresuggest.com/it-service-management-software
+  normalized_url: https://www.softwaresuggest.com/it-service-management-software
+  first_seen_at: 2026-11-23T03:48:55.782Z
+  last_attempted_at: 2026-11-23T03:48:55.782Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL:
+    https://www.softwaresuggest.com/it-service-management-software"
